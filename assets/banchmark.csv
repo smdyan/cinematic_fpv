@@ -1,0 +1,6 @@
+mode,"thrust, g","current, А","power, Wt","torque, N*m","frequence, rpm","trottle, %"
+hover,100,0.95,23,0.01,10000,25
+cruise lite,125,1.27,31,0.014,11000,29
+cruise laden,180,1.8,43,0.019,13000,33
+agility,400,4.7,112,0.036,18900,60
+max,950,17.3,414,0.085,28600,100

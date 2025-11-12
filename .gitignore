@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Marimo metadata (if present)
+.marimo/
+
+# Virtual environments
+.venv
+
+# Lock and metadata
+.uv/
+uv.lock
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Custom
+*.pdf
